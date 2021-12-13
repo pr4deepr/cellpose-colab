@@ -9,7 +9,10 @@ Future plans are to include 3D predictions and possibly options for training dat
 
 Cellpose: Cellpose: https://github.com/MouseLand/cellpose
 
+**UPDATE: ZeroCostDL4Mic has [cellpose training and prediction notebooks](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) with the option for 3D**
+
 The notebooks are inspired by the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) series of notebooks from the Henriques Lab and do borrow components from it as well. 
+
 
 v0.2 updates:
 * Added the new models in the notebook
