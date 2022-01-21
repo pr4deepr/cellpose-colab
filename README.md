@@ -21,7 +21,8 @@ v0.2 updates:
 ## Running cellpose and colab on local conda installation
 
 This is mainly if you'd like to train data using your PC resources
-Installation instructions are provided in the notebook below. The yml file provided here is only for **upgrading** the existing cellpose environment.
+Installation instructions are provided in the notebook below. The _cellpose_colab_local.yml_ file provided here is only for **upgrading** the existing cellpose environment.
+Check the notebook below for more info.
 
 2D Notebook_local_environment (run locally on a PC): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pr4deepr/cellpose-colab/blob/main/Cellpose_2D_run_on_local_environment.ipynb)
 
