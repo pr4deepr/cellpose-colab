@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - matplotlib
+  - imagecodecs
   - pandas
   - astropy
   - ipywidgets 
