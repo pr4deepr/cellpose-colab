@@ -5,7 +5,6 @@ channels:
   - defaults
 dependencies:
   - matplotlib
-  - imagecodecs
   - pandas
   - astropy
   - ipywidgets 
@@ -16,6 +15,7 @@ dependencies:
     - jupyter_http_over_ws
     #- numpy==1.21
     - tifffile 
+    - imagecodecs
     - folium==0.2.1
     - imgaug==0.2.5
     - opencv-python-headless==4.1.2.30
