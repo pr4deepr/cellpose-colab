@@ -1,20 +1,26 @@
 # Cellpose
-Google Colab notebooks for prediction using cellpose (v2.0).
-This currently only supports 2D prediction
+**This notebook uses cellpose v2.3.2.**
+
 
 2D Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pr4deepr/cellpose-colab/blob/main/Cellpose_cell_segmentation_2D_prediction_only.ipynb)
 
 Cellpose: Cellpose: https://github.com/MouseLand/cellpose
 
-
 3D prediction is available  by the [ZeroCostDL4Mic team](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki). The notebooks are inspired by the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) series of notebooks from the Henriques Lab and do borrow components from it as well. 
 
 
-v0.3 updates:
+v0.5 update:
+* 2024/04/09 Constrained cellpose version to be 2.3.2 to maintain compatibility.
+
+
+v0.4 update:
+* Fixed bug where new models could not be used for prediction
+
+
+v0.3 update:
 * Updated for Cellpose 2.0
-* Added the new models in the notebook
-* Fixed a numpy error when installing cellpose in colab environment. Fix is to restart colab after installing cellpose
-* Parameters.txt file gets saved in output folder so as to record the parameters used for cellpose prediction
+* New models incorporated: https://cellpose.readthedocs.io/en/latest/models.html
+* Parameters used in cellpose will be saved as a txt file (Thanks for suggestion Kota Miura)
 
 ***********************
 ## Running cellpose and colab on local conda installation
