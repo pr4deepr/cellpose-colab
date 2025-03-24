@@ -4,7 +4,7 @@
 
 2D Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pr4deepr/cellpose-colab/blob/main/Cellpose_cell_segmentation_2D_prediction_only.ipynb)
 
-Please cite the following:
+Please cite the following, if you use this notebook:
 - Cellpose: Stringer, C., Wang, T., Michaelos, M. et al. Cellpose: a generalist algorithm for cellular segmentation. Nat Methods 18, 100–106 (2021). https://doi.org/10.1038/s41592-020-01018-x
 - Pradeep Rajasekhar. (2025). Cellpose Google Colab segmentation notebook (v0.6). Zenodo. https://doi.org/10.5281/zenodo.15073575
 
