@@ -1,6 +1,6 @@
 # Cellpose Colab notebook
 
-![DOI:10.5281/zenodo.15073574](http://img.shields.io/badge/DOI-10.5281/zenodo.15073574.svg)](https://doi.org/10.5281/zenodo.15073574)
+[![DOI:10.5281/zenodo.15073574](https://img.shields.io/badge/DOI-10.5281/zenodo.1507357-B31B1B.svg)](https://doi.org/10.5281/zenodo.15073574)
 
 **This notebook uses cellpose v2.3.2.**
 
