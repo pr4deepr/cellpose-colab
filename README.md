@@ -17,6 +17,10 @@ Cellpose: Cellpose: https://github.com/MouseLand/cellpose
 
 3D prediction is available  by the [ZeroCostDL4Mic team](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki). The notebooks are inspired by the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) series of notebooks from the Henriques Lab and do borrow components from it as well. 
 
+v0.6 update:
+
+* Fixed numpy bug by restricting it to numpy<2
+* Added uv for fast python package installation
 
 v0.5 update:
 * 2024/04/09 Constrained cellpose version to be 2.3.2 to maintain compatibility.
